@@ -176,6 +176,7 @@
 		<variable name="keyboard_terminal_y" value="1053"/>
 		<variable name="background_color" value="#1A1A1A"/>
 		<variable name="accent_color" value="#0090CA"/>
+		<variable name="black_color" value="#111211"/>
 		<variable name="accent_color_semitransparent" value="#0090CA30"/>
 		<variable name="text_color" value="#EEEEEE"/>
 		<variable name="text_button_color" value="#EEEEEE"/>
